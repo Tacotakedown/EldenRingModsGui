@@ -1,2 +1,6 @@
+x64
+Build
+EldenRingModGui.sln
 cmake-build-debug
 cmake-build-release
+.vs
