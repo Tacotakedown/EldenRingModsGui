@@ -1,3 +1,3 @@
-# Elden Ring Mod Gui
+# Ascendancy
 
-Internal Gui for misc elden ring mods / cheats
+Injection and dependency management (required fonts) will be handed with the ascendancy-injector
