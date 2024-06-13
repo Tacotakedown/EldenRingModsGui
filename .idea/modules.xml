@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/EldenRingModsGui.iml" filepath="$PROJECT_DIR$/.idea/EldenRingModsGui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ascendancy.iml" filepath="$PROJECT_DIR$/.idea/ascendancy.iml" />
     </modules>
   </component>
 </project>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="CLionExternalBuildManager">
-    <target id="d7a4b7f8-f3f9-4a2c-bde8-9b9256b7da2a" name="Msbuild" defaultType="TOOL">
-      <configuration id="b5b8b062-3fff-4301-b051-67d77197263f" name="Msbuild" toolchainName="Visual Studio" />
-    </target>
-  </component>
-</project>

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(EldenRingModGui)
+project(Ascendancy)
 
 set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
@@ -37,11 +37,11 @@ add_library(MinHook STATIC
 
 target_include_directories(MinHook PUBLIC dependencies/MinHook/Src dependencies/MinHook/include)
 
-add_library(EldenRingModGui SHARED
+add_library(Ascendancy SHARED
         src/main.cpp
         src/DirectX12.h
         src/Global.h
         src/main.h
 )
 
-target_link_libraries(EldenRingModGui ImGui MinHook)
+target_link_libraries(Ascendancy ImGui MinHook)
