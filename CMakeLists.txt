@@ -42,6 +42,14 @@ add_library(Ascendancy SHARED
         src/DirectX12.h
         src/Global.h
         src/main.h
+        src/menu/menu.h
+        src/menu/menu.cpp
+        src/menu/Arial.h
+        src/hook/DX12Hook.h
+        src/hook/DX12Hook.cpp
+        src/stdafx.h
+        src/globals/Globals.cpp
+        src/globals/Globals.h
 )
 
 target_link_libraries(Ascendancy ImGui MinHook)

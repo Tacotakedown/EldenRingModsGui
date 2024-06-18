@@ -13,6 +13,7 @@ DrawIndexedInstanced oDrawIndexedInstanced = NULL;
 typedef void(APIENTRY* ExecuteCommandLists)(ID3D12CommandQueue* queue, UINT NumCommandLists, ID3D12CommandList* ppCommandLists);
 ExecuteCommandLists oExecuteCommandLists = NULL;
 
+
 //D3D12 Methods Table:
 //[0]   QueryInterface
 //[1]   AddRef
